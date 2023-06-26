@@ -2,4 +2,4 @@
 
 ---
 
-A telegram bot for [invoice-parser](https://github.com/shaiksamad/invoice-parser)
+A telegram bot for [invoice-parser](https://github.com/shaiksamad/invoice-parser) (private repo)
